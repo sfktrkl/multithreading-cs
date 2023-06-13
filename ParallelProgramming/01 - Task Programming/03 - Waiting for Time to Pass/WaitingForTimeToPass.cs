@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace S01_TaskProgramming;
 
-public partial class S01_02_CancellingTasks
+public partial class S01_03_WaitingForTimeToPass
 {
     [Fact]
     public void WaitingForTimeToPass()
