@@ -4,9 +4,9 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace TaskProgramming;
+namespace S01_TaskProgramming;
 
-public partial class CancellingTasks
+public partial class S01_02_CancellingTasks
 {
     [Fact]
     public void WaitingForTimeToPass()

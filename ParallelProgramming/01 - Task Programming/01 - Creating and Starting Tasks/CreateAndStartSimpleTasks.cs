@@ -3,9 +3,9 @@ using Xunit;
 using System;
 using System.Threading.Tasks;
 
-namespace TaskProgramming;
+namespace S01_TaskProgramming;
 
-public partial class CreatingStartingTasks
+public partial class S01_01_CreatingStartingTasks
 {
     private static void Write(char c)
     {
